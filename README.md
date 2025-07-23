@@ -8,7 +8,7 @@
 
 ![RunPy banner](docs/promo.png)
 
-[RunPy](https://runpy.app) is a playground app for Python. 
+[RunPy](https://runpy.app) is a batteries included Python playground from the creator of [RunJS](https://runjs.app).
 
 
 [![Introduction to RunPy](docs/runpy-intro-video.png)](https://www.youtube.com/watch?v=Fx8ECJIFKdg)
